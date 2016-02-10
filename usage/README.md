@@ -7,7 +7,7 @@ This component is based on the blueprint of Veams-Components.
 ### Include: Page
 
 ``` hbs
-{{! @INSERT :: START @id: video, @tag: component-partial }}
+{{! @INSERT :: START @id: youtube, @tag: component-partial }}
 {{#with yt-video-bp}}
 	{{> c-yt-video}}
 {{/with}}
