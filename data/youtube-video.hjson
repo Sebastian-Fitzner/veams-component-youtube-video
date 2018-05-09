@@ -1,0 +1,19 @@
+{
+	"variations": {
+		"default": {
+			"docs": {
+				"variationName": "Default Youtube Video"
+			},
+			"settings": {
+				"youtubeVideoContextClass": false,
+				"youtubeVideoClasses": "is-responsive"
+			},
+			"content": {
+				"youtubeVideoUrl": "http://www.youtube.com/embed/anZ52U0_s60",
+				"youtubeVideoWidth": 560,
+				"youtubeVideoHeight": 315
+			}
+		}
+	}
+}
+

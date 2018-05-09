@@ -1,0 +1,9 @@
+
+<div class="c-youtube-video{{#if settings.youtubeVideoContextClass}}--{{settings.youtubeVideoContextClass}}{{else}}--default{{/if}}
+	{{#if settings.youtubeVideoClasses}} {{settings.youtubeVideoClasses}}{{/if}}"
+	 data-css="c-youtube-video">
+	<iframe src="{{getUrl content.youtubeVideoUrl}}"
+			frameborder="0"
+			width="{{content.youtubeVideoWidth}}"
+			height="{{content.youtubeVideoHeight}}"></iframe>
+</div>

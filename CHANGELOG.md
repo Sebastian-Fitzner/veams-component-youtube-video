@@ -1,3 +1,13 @@
+## Namespaced Versions
+
+### v1.0.0
+
+- Migrate to use 
+
+	**@veams/component**
+
+------------------
+
 ### v1.0.3
 - updated insert tags
 
